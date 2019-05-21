@@ -1,4 +1,8 @@
 
+body {
+	background: #006666;
+}
+
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
 	body {
